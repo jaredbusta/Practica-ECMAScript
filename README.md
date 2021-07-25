@@ -38,3 +38,13 @@
 4.- Async y await
 
 
+## ECMASrcript+9 
+1.- Operador de reposo
+
+2.- Propiedad de propagacion en objetos
+
+3.- funcion Finally de las promesas
+
+4.- Agrupacion de bloques de regex con match
+
+
