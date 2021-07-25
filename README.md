@@ -28,3 +28,13 @@
 
 2.- Nueva forma de calcular potencias
 
+## ECMASrcript+8 
+1.- Object.entries
+
+2.- Object.values
+
+3.- Padding con padStart y padEnd
+
+4.- Async y await
+
+
