@@ -1,5 +1,5 @@
 # Practica-ECMAScript
-conceptos y ejercicios en ECMAScript +6
+## ECMAScript +6
 1.- Fnciones con parametros por defecto
 
 2.- Concatenación con template literal
@@ -21,3 +21,10 @@ conceptos y ejercicios en ECMAScript +6
 10.- Clases
 
 11.- Import y export de módulos
+
+## ECMAScrit+7
+
+1.- Uso de includes en arreglos y cadenas
+
+2.- Nueva forma de calcular potencias
+
